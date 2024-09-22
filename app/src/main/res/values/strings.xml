@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="city_name">Agra</string>
+    <string name="today">Today</string>
+    <string name="temperature">31</string>
+    <string name="weather_condition">SUNNY</string>
+    <string name="day">Tuesday</string>
+    <string name="today_date">20 September 2024</string>
+</resources>
